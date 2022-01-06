@@ -3,3 +3,6 @@
 Created Repository Jan. 05, 2022
 
 Folders and blank files created
+
+
+Working through teh coding - finding average
