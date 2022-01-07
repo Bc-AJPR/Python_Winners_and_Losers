@@ -6,3 +6,5 @@ Folders and blank files created
 
 
 Working through teh coding - finding average
+
+Still dealing with average
