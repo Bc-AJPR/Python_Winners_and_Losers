@@ -4,8 +4,10 @@ Created Repository Jan. 05, 2022
 
 Folders and blank files created
 
-Working through teh coding - finding average
+Working through the coding - finding the average
 
 Still dealing with average
 
 All done! missing - writing the new txt file
+
+PyBank analysis completed.
