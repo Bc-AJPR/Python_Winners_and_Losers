@@ -11,3 +11,6 @@ Still dealing with average
 All done! missing - writing the new txt file
 
 PyBank analysis completed.
+
+------------------------
+Starting PyPoll - first draft
