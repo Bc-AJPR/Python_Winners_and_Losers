@@ -20,7 +20,6 @@ with open(csvpath) as csvfile:
         total.append(int(row['Profit/Losses']))#reading all rows under the header "Profit/Losses" & adding to the list
         months= len(dates)# total months is equal to lenght of list "dates"
         totals= "${}".format(sum(total))#totals is equal to the sum of the list "total"
-
     for i in range(months-1):
         bfr_idx=int(total[i])#set the index for subtrahend
         afr_idx=int(total[(i+1)])#set the indes for minuend

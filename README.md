@@ -14,3 +14,5 @@ PyBank analysis completed.
 
 ------------------------
 Starting PyPoll - first draft
+
+Getting percentage calcualted - and clean-up
