@@ -7,6 +7,7 @@ import csv
 
 csvpath = os.path.join('..', 'Resources', 'budget_data.csv')
 
+
 with open(csvpath) as csvfile:
 
     # CSV reader specifies delimiter and variable that holds contents
